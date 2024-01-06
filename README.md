@@ -1,2 +1,2 @@
 # dio-java-basico
-Reepositório curso Java básico (Dio)
+Repositório curso Java básico (Dio)
